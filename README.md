@@ -1,6 +1,5 @@
 # Sound-Boost-Bookmarklet
 A bookmarklet that's safe and does the job
-# How to use this?
 ## Step 1:
 ### Go to Bookmark Manager on your browser and click on 'Add a new Bookmark'
 ## Step 2:
